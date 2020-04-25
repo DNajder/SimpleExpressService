@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/sekcja 8 serwis node,express,mongodb.iml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+app.js
+bin/
+node_modules/
+package-lock.json
+package.json
+public/
+routes/
+views/
+.idea/jsLibraryMappings.xml
